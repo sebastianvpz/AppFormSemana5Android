@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AppFormsAndroid</string>
+    <string name="titulomain">REGISTRO DE PERSONAS</string>
+    <string name="valbtnRegistro">REGISTRAR PERSONA</string>
+    <string name="valbtnListar">VER LISTA DE PERSONAS</string>
+    <string name="valtxtNombre">INGRESE SU NOMBRE\n</string>
+    <string name="valtxtApellido">INGRESE SU APELLIDO</string>
+    <string name="valrbFemenino">FEMENINO\n</string>
+    <string name="valFemen">FEMENIMO</string>
+    <string name="valrbMasculino">MASCULINO</string>
+    <string name="valcbDeporte">DEPORTE</string>
+    <string name="valcbArte">ARTE</string>
+    <string name="valcbOtros">OTRAS PREFERENCIAS</string>
+    <string name="valswNotificacion">¿Quiere recibir notificacaiones?</string>
+    <string name="vasNot">¿Quiere recibir notificaciones?</string>
+    <string name="valRegPers">REGISTRAR PERSONA</string>
+    <string name="valTituloListado">LISTA DE PERSONAS REGISTRADAS</string>
+</resources>
