@@ -154,4 +154,16 @@
         app:layout_constraintEnd_toStartOf="@+id/guideline"
         app:layout_constraintStart_toStartOf="@+id/guideline2"
         app:layout_constraintTop_toBottomOf="@+id/swNotificacion" />
+
+    <Button
+        android:id="@+id/btnRegiListado"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:text="@string/valbtnListar"
+        app:icon="@drawable/baseline_format_list_bulleted_24"
+        app:iconGravity="textStart"
+        app:layout_constraintEnd_toStartOf="@+id/guideline"
+        app:layout_constraintStart_toStartOf="@+id/guideline2"
+        app:layout_constraintTop_toBottomOf="@+id/btnRegistrarPer" />
 </androidx.constraintlayout.widget.ConstraintLayout>
