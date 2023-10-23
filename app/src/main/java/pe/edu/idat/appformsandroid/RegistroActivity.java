@@ -40,6 +40,7 @@ public class RegistroActivity extends AppCompatActivity implements AdapterView.O
         binding.cbArte.setOnClickListener(this);
         binding.cbOtros.setOnClickListener(this);
         binding.spEstadoCivil.setOnItemSelectedListener(this);
+        binding.btnRegiListado.setOnClickListener(this);
     }
 
 
